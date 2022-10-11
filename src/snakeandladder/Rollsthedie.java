@@ -1,6 +1,7 @@
 package snakeandladder;
+//UC-2 The Player rolls the die to get a number between 1 to 6. - Use ((RANDOM)) to get the number between 1 to 6
     import java.util.Random;
-public class UC2_Rollsthedie {
+public class Rollsthedie {
 
         public static void main(String[] args) {
             int pos = 0;

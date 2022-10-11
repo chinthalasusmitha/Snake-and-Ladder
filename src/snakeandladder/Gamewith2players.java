@@ -1,6 +1,8 @@
 package snakeandladder;
+//UC-7 Play the game with 2Player. In this case if a Player gets a Ladder then plays again.
+//        Finally report which Player won the game
     import java.util.Random;
-public class UC7_Gamewith2players {
+public class Gamewith2players {
 
         public static void main(String[] args) {
             int pos1 = 0;

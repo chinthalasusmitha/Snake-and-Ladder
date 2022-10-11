@@ -1,7 +1,6 @@
 package snakeandladder;
-    import java.util.Random;
-
-public class UC1_Singleplayer {
+//UC-1 Snake and Ladder game played with single player at start position 0
+public class Singleplayer {
 
         public static void main(String[] args) {
             int pos = 0;

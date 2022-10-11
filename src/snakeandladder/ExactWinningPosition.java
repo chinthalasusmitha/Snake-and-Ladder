@@ -1,6 +1,10 @@
 package snakeandladder;
+//UC-5 Ensure the player gets to exact winning position 100.
+//        - Note in case the player position go above 100,
+//        the player stays in the same previous position till the player gets the exact
+
     import java.util.Random;
-public class UC5_Exactwinning {
+public class ExactWinningPosition {
 
         public static void main(String[] args) {
             int pos = 0;
@@ -51,4 +55,5 @@ public class UC5_Exactwinning {
             }
             return pos;
         }
-}
+    }
+

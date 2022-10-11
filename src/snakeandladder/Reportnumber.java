@@ -1,6 +1,7 @@
 package snakeandladder;
+//UC-6 Report the number of times the dice was played to win the game and also the position after every die role
     import java.util.Random;
-public class UC6_Reportnumber {
+public class Reportnumber {
 
         public static void main(String[] args) {
             int pos = 0;
